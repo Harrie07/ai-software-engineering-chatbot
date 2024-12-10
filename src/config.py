@@ -1,6 +1,6 @@
 # Store your API key here
-API_KEY = "AIzaSyCuc2hf799ivrRe7jVr2Jq28C_YjU5a4Bs"
-# GOOGLE_API_KEY = "AIzaSyCuc2hf799ivrRe7jVr2Jq28C_YjU5a4Bs"
+API_KEY = "your API key"
+# GOOGLE_API_KEY = "your API key"
 
 
 # Function to get the API key
