@@ -6,3 +6,4 @@ API_KEY = "your API key"
 # Function to get the API key
 def get_model():
     return API_KEY
+
